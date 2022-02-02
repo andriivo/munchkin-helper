@@ -25,10 +25,11 @@ FIRST INSTRUMENTS AND TECHNOLOGIES:
 6. CSS3 - for good looking.
 7. JavaScript v6+ - as frontend base.
 8. Angular v13.x - framework based on JS for SPA.
-9. (Optional) GIT-kraken - IDE for GIT.
-10. (Optional) Asana or Jira - Task tracker.  
-11. (Optional) Obsidian - Zettelcasten technique for documentation and mind.
-12. etc.... dependencies I will not write down, 'cause they would saved into GEM file or somewhere else. 
+9. Rubocop v1.25+ - Ruby code analyzer.
+10. (Optional) GIT-kraken - IDE for GIT.
+11. (Optional) Asana or Jira - Task tracker.  
+12. (Optional) Obsidian - Zettelcasten technique for documentation and mind.
+13. etc.... dependencies I will not write down, 'cause they would saved into GEM file or somewhere else. 
 
 
 
